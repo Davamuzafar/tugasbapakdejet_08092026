@@ -1,0 +1,12 @@
+.judul{
+    text-align: center;
+}
+.img{
+    width: 200px; 
+    display: block; 
+    margin: 0 auto;
+}
+.deskripsi{
+    text-align: center;
+    margin: 20px;
+}
